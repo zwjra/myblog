@@ -2,8 +2,8 @@
 title: Hello World
 date: 2020-04-16 10:47:04
 tags:
-excerpt: 123ABC
-photos: https://i.loli.net/2020/04/16/UVgpMsJkK3uafIG.jpg
+excerpt: 初始的内容
+index_img: https://i.loli.net/2020/05/05/ahB4cztmMn2qoEC.png
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
